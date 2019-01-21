@@ -82,4 +82,8 @@ modules.xml
 .idea/misc.xml
 *.ipr
 
+<<<<<<< HEAD
 # End of https://www.gitignore.io/api/intellij+all
+=======
+# End of https://www.gitignore.io/api/intellij+all
+>>>>>>> 471608e5dc8eb08b685a2e981c3b7f306c815de0
